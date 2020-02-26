@@ -1,0 +1,21 @@
+{
+    "all_question": {
+        "Quel est aujourd'hui pour vous le problème concret le plus important dans le domaine de l'environnement ?": 1,
+        "Que faudrait-il faire selon vous pour apporter des réponses à ce problème ?": 2,
+        "Diriez-vous que votre vie quotidienne est aujourd'hui touchée par le changement climatique ?": 3,
+        "Si oui, de quelle manière votre vie quotidienne est-elle touchée par le changement climatique ?": 4,
+        "À titre personnel, pensez-vous pouvoir contribuer à protéger l'environnement ?": 5,
+        "Si oui, que faites-vous aujourd'hui pour protéger l'environnement et/ou que pourriez-vous faire ?": 6,
+        "Qu'est-ce qui pourrait vous inciter à changer vos comportements comme par exemple mieux entretenir et régler votre chauffage, modifier votre manière de conduire ou renoncer à prendre votre véhicule pour de très petites distances ?": 7,
+        "Quelles seraient pour vous les solutions les plus simples et les plus supportables sur un plan financier pour vous inciter à changer vos comportements ?": 8,
+        "Par rapport à votre mode de chauffage actuel, pensez-vous qu'il existe des solutions alternatives plus écologiques ?": 9,
+        "Si oui, que faudrait-il faire pour vous convaincre ou vous aider à changer de mode de chauffage ?": 10,
+        "Avez-vous pour vos déplacements quotidiens la possibilité de recourir à des solutions de mobilité alternatives à la voiture individuelle comme les transports en commun, le covoiturage, l'auto-partage, le transport à la demande, le vélo, etc. ?": 11,
+        "Si oui, que faudrait-il faire pour vous convaincre ou vous aider à utiliser ces solutions alternatives ?": 12,
+        "Si non, quelles sont les solutions de mobilité alternatives que vous souhaiteriez pouvoir utiliser ?": 13,
+        "Et qui doit selon vous se charger de vous proposer ce type de solutions alternatives ?": 14,
+        "Que pourrait faire la France pour faire partager ses choix en matière d'environnement au niveau européen et international ?": 15,
+        "Y a-t-il d'autres points sur la transition écologique sur lesquels vous souhaiteriez vous exprimer ?": 16
+    },
+    "yes_no_questions": [3, 5, 9, 11]
+}

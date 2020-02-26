@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+stop-words
+-e git://gitlab.irstea.fr/jacques.fize/biotex_python.git
+tqdm
+joblib
